@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "318650489556",
+    "firebase_url": "https://appcommunicate-55d8d.firebaseio.com",
+    "project_id": "appcommunicate-55d8d",
+    "storage_bucket": "appcommunicate-55d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318650489556:android:31c870fb4d27752b",
+        "android_client_info": {
+          "package_name": "com.privacycomplaintapp.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318650489556-0o0l9mucm19eahkg5juiamobbortimie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBBsoRmLNfZKv766FPC3GPvD_rR7GDzrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
